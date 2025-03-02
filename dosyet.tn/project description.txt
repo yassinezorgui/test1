@@ -1,0 +1,11 @@
+a web application that is somewhat social media
+users make profiles for each others 
+unlike other social media, dosyet aims to reveal the unspoken truths about people 
+a user creates a profile for someone that did him wrong, talks about what happened, add some evidence
+guests can read everything 
+users can interact with the posts
+each post have a comment section in which users share thoughts about the post, 
+and a voting sections where you click (guilty/innocent)
+users can guet verification badges for credibility 
+there are # added to each profile by users, where you find the country, the city, the proffession and every searching key that's related to the suspect
+you can follow suspects, #s and users to see more relevant content
